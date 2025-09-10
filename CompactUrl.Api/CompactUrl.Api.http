@@ -1,0 +1,6 @@
+@CompactUrl.Api_HostAddress = http://localhost:5107
+
+GET {{CompactUrl.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
